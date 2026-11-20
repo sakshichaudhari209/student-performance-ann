@@ -1,0 +1,13 @@
+Logistic Regression Accuracy: 0.692
+ANN Test Accuracy: 0.6803333163261414
+
+ANN Classification Report:
+              precision    recall  f1-score   support
+
+        High       0.77      0.74      0.75       990
+         Low       0.79      0.66      0.72       990
+      Medium       0.53      0.65      0.59      1020
+
+    accuracy                           0.68      3000
+   macro avg       0.70      0.68      0.69      3000
+weighted avg       0.70      0.68      0.69      3000
